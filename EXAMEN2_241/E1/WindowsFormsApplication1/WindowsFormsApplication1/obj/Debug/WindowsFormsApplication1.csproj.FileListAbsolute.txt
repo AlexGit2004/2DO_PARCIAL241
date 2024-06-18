@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Desktop\EXAMEN2_241\E1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
